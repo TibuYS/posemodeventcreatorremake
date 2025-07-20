@@ -1,0 +1,612 @@
+[
+  {
+    "lineInt": 1,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Hey, Senpai! Got a second?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 2,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_1 (Jokichi Yudasei)",
+      "CharacterRenamed": "Student_1",
+      "StartLocation": "7.5,0,-67",
+      "StartRotation": "0,180,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "waiting_00",
+      "Gender": "Male",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Yeah, what's up?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_1 (Jokichi Yudasei)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "talking_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 3,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "I made a bento for my sister this morning, but she left the house without it.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 5.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 4,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "I don't want it to go to waste! Would you like to have it?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 5,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_1 (Jokichi Yudasei)",
+      "CharacterRenamed": "Student_1",
+      "StartLocation": "7.5,0,-67",
+      "StartRotation": "0,180,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "waiting_00",
+      "Gender": "Male",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Oh, sure! I'd be happy to!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_1 (Jokichi Yudasei)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "talking_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 6,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Great! Here it is! I hope you enjoy it!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 7,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_1 (Jokichi Yudasei)",
+      "CharacterRenamed": "Student_1",
+      "StartLocation": "7.5,0,-67",
+      "StartRotation": "0,180,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "waiting_00",
+      "Gender": "Male",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Thanks! I'll keep it on my desk for now, and eat it at lunchtime.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_1 (Jokichi Yudasei)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 5.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "talking_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 8,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Okay! At 5;15 PM, let's meet up back here, so you can tell me how it tasted!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 6.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 9,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_1 (Jokichi Yudasei)",
+      "CharacterRenamed": "Student_1",
+      "StartLocation": "7.5,0,-67",
+      "StartRotation": "0,180,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "waiting_00",
+      "Gender": "Male",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Alright, sounds like a plan!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_1 (Jokichi Yudasei)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "talking_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  },
+  {
+    "lineInt": 10,
+    "lineSpeaker": {
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "7.5,0,-68",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "PathfindingType": 2
+    },
+    "Subtitle": "Yay! I'm looking forward to it!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Kaguya Wakaizumi)",
+    "R": 255,
+    "G": 255,
+    "B": 0,
+    "Duration": 4.3,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_1 (Jokichi Yudasei)",
+          "CharacterRenamed": "Student_1",
+          "StartLocation": "7.5,0,-67",
+          "StartRotation": "0,180,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "waiting_00",
+          "Gender": "Male",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "idleShort_00",
+        "secondaryAnimation": ""
+      },
+      {
+        "characterName": {
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Kaguya Wakaizumi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "7.5,0,-68",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": ""
+      }
+    ]
+  }
+]
