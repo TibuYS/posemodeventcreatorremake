@@ -2,6 +2,7 @@ Please credit me, Tibu, if you're using the Event Creator in mods, projects.
 It took a lot of time to put together and I think crediting is a small price to pay!
 My channel: https://www.youtube.com/@TibuYoutube
 Release Video [for future updates]: https://youtu.be/wJJCJsXezbM
+Tutorial [full guide, in case you get stuck]: https://youtu.be/HzksU0JEy-0  
 
 The backup folder has an untouched Female and Male animations file, in case anybody needs it for any reason..
 DO NOT take the executable out of the root folder!
