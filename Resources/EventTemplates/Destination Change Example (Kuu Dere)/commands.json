@@ -1,0 +1,7 @@
+{
+  "beforeEventCommands": [
+    "ChangeShoes:Student_4"
+  ],
+  "afterEventCommands": [],
+  "lineCommands": []
+}

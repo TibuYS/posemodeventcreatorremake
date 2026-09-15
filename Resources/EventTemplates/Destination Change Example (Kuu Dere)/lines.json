@@ -1,0 +1,450 @@
+[
+  {
+    "lineInt": 1,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "What a boring day.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_thinking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 2,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "I wish I had something to do.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_salute_01",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 1,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Whatever, I need a drink.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_refuse_01",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "32.09778:0:20.19141",
+        "Rotation": "0:270:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 4,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Shoot - I don't have any money on me..",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_refuse_01",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 5,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Today's not my lucky day, is it?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_lookdown_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 6,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Maybe there will be something at the bake sale I can afford!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 5.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_thinking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-5.452379:0:-7.579748",
+        "Rotation": "0:60:0",
+        "pathfindingType": 1,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 7,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Oh, I just remembered I brought food with me.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_nod_01",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 8,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_4 (Kuu Dere)",
+      "CharacterRenamed": "Student_4",
+      "StartLocation": "0.000128,0,-59.97681",
+      "StartRotation": "0,360,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "I will eat with my...friends!...in the library",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_4 (Kuu Dere)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_4 (Kuu Dere)",
+          "CharacterRenamed": "Student_4",
+          "StartLocation": "0.000128,0,-59.97681",
+          "StartRotation": "0,360,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_lookdown_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  }
+]

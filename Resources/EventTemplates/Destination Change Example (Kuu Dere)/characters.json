@@ -1,0 +1,17 @@
+[
+  {
+    "showLocationMarker": false,
+    "AppearAtLine": 1,
+    "CharacterName": "Student_4 (Kuu Dere)",
+    "CharacterRenamed": "Student_4",
+    "StartLocation": "0.000128,0,-59.97681",
+    "StartRotation": "0,360,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 2
+  }
+]

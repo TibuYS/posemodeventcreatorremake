@@ -1,0 +1,32 @@
+[
+  {
+    "showLocationMarker": false,
+    "AppearAtLine": 1,
+    "CharacterName": "Student_11 (Osana Najimi)",
+    "CharacterRenamed": "Student_11",
+    "StartLocation": "-12.00076,0,19.99936",
+    "StartRotation": "0,0,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 2
+  },
+  {
+    "showLocationMarker": false,
+    "AppearAtLine": 1,
+    "CharacterName": "Student_10 (Raibaru Fumetsu)",
+    "CharacterRenamed": "Student_10",
+    "StartLocation": "-11.75154,0,20.56657",
+    "StartRotation": "0,203.7204,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 1
+  }
+]

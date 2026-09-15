@@ -1,0 +1,2667 @@
+[
+  {
+    "lineInt": 1,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "What do you think of this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 1,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Everyone in this club seems really nice, and I've always wanted to get better at cooking!  Right now, it's kinda my top choice...but I think I should check out the other clubs before I decide.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-0.0008078479:0:19.99952",
+        "Rotation": "0:0:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-0.3148516:-1.788139E-07:20.64047",
+        "Rotation": "0:130:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 3,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Have any thoughts about this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 4,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Uh...I dunno...the people in this club are kind of...well...I don't want to sound rude, but...they're just...not my type of crowd.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "11.9992:0:19.99953",
+        "Rotation": "0:0.9789005:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "11.68641:0:20.64124",
+        "Rotation": "0:154.007:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 5,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "What do you think of this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 6,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Ugh...this place gives me the creeps. I'm not even sure why the school allows this club to exist. Next club, please...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "20.00062:4:16.0007",
+        "Rotation": "0:90.89163:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "20.76587:4:16.41158",
+        "Rotation": "0:241.7675:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 7,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Have any thoughts about this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 8,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Seriously...video games? Really? Who still plays video games  after middle school? Like, grow up already...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 6.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "12.00041:4:19.99917",
+        "Rotation": "0:359.0757:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "11.75756:4:20.56315",
+        "Rotation": "0:156.7026:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 9,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "What's your opinion on this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 10,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "I guess I don't really have a strong opinion about it either way. I mean, I guess I'd consider it, but...it wouldn't really be my first choice, you know?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "0.0008405395:4:19.9995",
+        "Rotation": "0:359.1187:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "0.3151676:4:20.64031",
+        "Rotation": "0:206.138:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 11,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "How about this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 12,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Ooh, this club is so cool! Everyone here is so talented! But...I can't play any instruments, so...I wouldn't really fit in. I think I'd better look for a different club...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-11.99915:4:19.99949",
+        "Rotation": "0:359.1209:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-11.6853:4:20.64023",
+        "Rotation": "0:206.1082:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 13,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Would this club suit you?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 14,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Hmm...well, it could be fun, but I've never really thought of myself as an artist. I'm sure it's a nice club and all, but...I think another club would be a better fit for me.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-12.00043:8:20.00087",
+        "Rotation": "0:0.7863595:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-12.10108:8:20.52225",
+        "Rotation": "0:169.0722:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 15,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Can you see yourself in this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 16,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Oh, I've heard about these guys...their club is supposed to be about photography, but they spend all their time just goofing around. No...I'd want to be in a club that takes itself seriously.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-0.0009345411:8:20.0002",
+        "Rotation": "0:0.9937998:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-0.4705916:8:20.90808",
+        "Rotation": "0:152.647:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 17,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Do you think you'd enjoy this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 18,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "...what's with this place, anyway...? It wasn't here last year...the doors are always locked, but it sounds like there's someone inside...ugh...it gives me the creeps. Let's go...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "11.99905:8:20.00022",
+        "Rotation": "0:0.9989599:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "11.6015:8:20.73717",
+        "Rotation": "0:151.6552:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 19,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Are you interested in this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 20,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Oh man...the only place that might scare me more than the Occult Club. I'm genuinely worried that one of their crazy experiments is going to blow up the school one day...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "0.0002023589:0:55.99907",
+        "Rotation": "0:359.0409:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-0.242413:0:56.56457",
+        "Rotation": "0:156.7793:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 21,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "Do you want to join this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 22,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "You know, I actually think this club looks really fun! But...it would be really awkward to be the only girl in the club. I guess I'll pass...",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-43.9991:0:28.00044",
+        "Rotation": "0:90.9546:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-42.91155:0:28.47351",
+        "Rotation": "0:246.4916:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 23,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "What do you make of this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 24,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "You're...joking, right? I'm going to assume that was a joke. Please, let's get out of here... I don't feel safe around them.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "-36.00074:0:-23.99935",
+        "Rotation": "0:269.0228:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "-36.53097:0:-23.851",
+        "Rotation": "0:105.6311:0",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 25,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "What do you think of this club?",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 3.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  },
+  {
+    "lineInt": 26,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Oh, this is another one of my top choices! Everyone here is so friendly, and I've always wanted to try gardening! I'll give it some thought.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 27,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_11 (Osana Najimi)",
+      "CharacterRenamed": "Student_11",
+      "StartLocation": "-12.00076,0,19.99936",
+      "StartRotation": "0,0,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 2
+    },
+    "Subtitle": "Well, I'm not ready to decide which club I want to join...but I feel way better after taking a walk with you. Thank you so much for being there for me!",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_11 (Osana Najimi)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 8.0,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_idleGirly_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": [
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      },
+      {
+        "character": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "enabled": true,
+        "Location": "",
+        "Rotation": "",
+        "pathfindingType": 0,
+        "leaveEvent": false,
+        "returnToRoutine": false
+      }
+    ]
+  },
+  {
+    "lineInt": 28,
+    "lineSpeaker": {
+      "showLocationMarker": false,
+      "AppearAtLine": 1,
+      "CharacterName": "Student_10 (Raibaru Fumetsu)",
+      "CharacterRenamed": "Student_10",
+      "StartLocation": "-11.75154,0,20.56657",
+      "StartRotation": "0,203.7204,0",
+      "EndLocation": "0,0,0",
+      "EndRotation": "0,0,0",
+      "WaitAnim": "f02_impatientWait_00",
+      "Gender": "Female",
+      "LookAt": "NONE",
+      "turnToOthers": true,
+      "PathfindingType": 1
+    },
+    "Subtitle": "It was my pleasure! I'm really glad to hear that you feel better. C'mon, let's go.",
+    "AudioPath": "",
+    "FullAudioPath": "",
+    "SpeakerName": "Student_10 (Raibaru Fumetsu)",
+    "R": 1,
+    "G": 1,
+    "B": 1,
+    "Duration": 4.5,
+    "SubtitleDistance": 10,
+    "CharacterAnimations": [
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_11 (Osana Najimi)",
+          "CharacterRenamed": "Student_11",
+          "StartLocation": "-12.00076,0,19.99936",
+          "StartRotation": "0,0,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 2
+        },
+        "mainAnimation": "f02_tsunIdle_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      },
+      {
+        "characterName": {
+          "showLocationMarker": false,
+          "AppearAtLine": 1,
+          "CharacterName": "Student_10 (Raibaru Fumetsu)",
+          "CharacterRenamed": "Student_10",
+          "StartLocation": "-11.75154,0,20.56657",
+          "StartRotation": "0,203.7204,0",
+          "EndLocation": "0,0,0",
+          "EndRotation": "0,0,0",
+          "WaitAnim": "f02_impatientWait_00",
+          "Gender": "Female",
+          "LookAt": "NONE",
+          "turnToOthers": true,
+          "PathfindingType": 1
+        },
+        "mainAnimation": "f02_talking_00",
+        "secondaryAnimation": "",
+        "usePrevious": false
+      }
+    ],
+    "LineDestinations": []
+  }
+]

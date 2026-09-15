@@ -1,0 +1,47 @@
+[
+  {
+    "showLocationMarker": true,
+    "AppearAtLine": 1,
+    "CharacterName": "YandereChan",
+    "CharacterRenamed": "YandereChan",
+    "StartLocation": "-29.225,12,29.33333",
+    "StartRotation": "0,180,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 1
+  },
+  {
+    "showLocationMarker": false,
+    "AppearAtLine": 1,
+    "CharacterName": "Student_10 (Raibaru Fumetsu)",
+    "CharacterRenamed": "Student_10",
+    "StartLocation": "-28.55777,12,28.66593",
+    "StartRotation": "0,270.9156,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 1
+  },
+  {
+    "showLocationMarker": false,
+    "AppearAtLine": 1,
+    "CharacterName": "Student_11 (Osana Najimi)",
+    "CharacterRenamed": "Student_11",
+    "StartLocation": "-29.22433,12,28.00068",
+    "StartRotation": "0,359.9711,0",
+    "EndLocation": "0,0,0",
+    "EndRotation": "0,0,0",
+    "WaitAnim": "f02_impatientWait_00",
+    "Gender": "Female",
+    "LookAt": "NONE",
+    "turnToOthers": true,
+    "PathfindingType": 1
+  }
+]

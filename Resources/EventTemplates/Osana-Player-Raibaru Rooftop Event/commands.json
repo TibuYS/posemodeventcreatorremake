@@ -1,0 +1,8 @@
+{
+  "beforeEventCommands": [
+    "ChangeShoes:Student_10 (Raibaru Fumetsu)",
+    "ChangeShoes:Student_11 (Osana Najimi)"
+  ],
+  "afterEventCommands": [],
+  "lineCommands": []
+}
